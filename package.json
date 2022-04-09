@@ -27,6 +27,6 @@
     "dependencies": {
         "admin-lte": "^3.0.1",
         "ionicons": "^4.6.3",
-        "moment": "^2.24.0"
+        "moment": "^2.29.2"
     }
 }
